@@ -1,0 +1,28 @@
+.operations {
+  display: flex;
+  gap: 10px;
+}
+
+.form {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+input {
+  width: 100%;
+  margin-right: 10px;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.titles {
+  text-align: left;
+  font-size: 20px;
+  color: green
+}
